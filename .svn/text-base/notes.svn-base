@@ -1,7 +1,0 @@
-Figure out how to respond to a button click - 
-    activity_main.xml calls a (user-defined) function in MainActivity.java. Have that function pass the data to the controller. - done
-
-Create a new activity_main, that the user goes to when the 'Create a Game' button is clicked. have the app transition to this activity on button click.
- - done.
-
- Creata a few basic fields, and handle error checking.
