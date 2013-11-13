@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/fa13-cs242/!svn/ver/11788/tsharma2/PickupGameFinder/mobilebackend-v1-generated-source/com/google/cloud/backend/android/mobilebackend/model
+END
+EntityListDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/fa13-cs242/!svn/ver/11788/tsharma2/PickupGameFinder/mobilebackend-v1-generated-source/com/google/cloud/backend/android/mobilebackend/model/EntityListDto.java
+END
+EntityDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/fa13-cs242/!svn/ver/11788/tsharma2/PickupGameFinder/mobilebackend-v1-generated-source/com/google/cloud/backend/android/mobilebackend/model/EntityDto.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/fa13-cs242/!svn/ver/11788/tsharma2/PickupGameFinder/mobilebackend-v1-generated-source/com/google/cloud/backend/android/mobilebackend/model/Filter.java
+END
+FilterDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/fa13-cs242/!svn/ver/11788/tsharma2/PickupGameFinder/mobilebackend-v1-generated-source/com/google/cloud/backend/android/mobilebackend/model/FilterDto.java
+END
+QueryDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/fa13-cs242/!svn/ver/11788/tsharma2/PickupGameFinder/mobilebackend-v1-generated-source/com/google/cloud/backend/android/mobilebackend/model/QueryDto.java
+END
