@@ -188,7 +188,6 @@ public class CreateGameActivity extends CloudBackendActivity implements OnItemSe
 	public void showToast(String text) {
 		Context context = getApplicationContext();
 		int duration = Toast.LENGTH_SHORT;
-
 		Toast toast = Toast.makeText(context, text, duration);
 		toast.show();
 		
